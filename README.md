@@ -114,6 +114,7 @@ Aşağıda kamuda açık kaynak kodlu yazılım kullanımı konusunda destek/hiz
 ## Makale
 
 - [Kamuda Açık Kaynak Kodlu Yazılım Kullanımı Genelgesi](https://www.bilecik.edu.tr/dosya/19377_5532_AKKY%20Sunum.pdf) - Bilecik Şeyh Edebali Üniversitesi Bilgi İşlem Daire Başkanlığı (2023)
+- [Kamu Kurumlarında Açık Kaynak Kodlu Yazılım Kullanımına Karşı Yönetici Direnci Üzerine Bir Araştırma](https://earsiv.kmu.edu.tr/xmlui/bitstream/handle/11492/5457/%C3%96zcan%2C%20Mahmut.pdf?sequence=1&isAllowed=y) - Mahmut ÖZCAN (2020)
 - [Ülkemizde Kamu Kuruluşlarında Kullanılan Yazılımların Yerli Yazılım İle Tek Çatı Altında Toplanması](https://www.sadab.org/FileUpload/bs701867/File/ulkemizde_kamu_kuruluslarinda_yerli_yazilim_son.pdf) - Alper AYTEKİN, Fatma TÜMİNÇİN (2018)
 - [Kamu Kurumlarında Açık Kaynak Kodlu Yazılımların Kullanımı](https://dergipark.org.tr/tr/pub/seyad/issue/53367/709521) - Mustafa Fedai ÇAVUŞ, Halenur Soysal KURT (2017)
 - [Kamuda Açık Kaynak Kodlu Yazılım Kullanımı](http://www.bilgitoplumu.gov.tr/Documents/1/Diger/Kamuda_Acik_Kaynak_Kullanimi_Calisma_Raporu.pdf) - M. Rașit ÖZDAȘ (2012)
