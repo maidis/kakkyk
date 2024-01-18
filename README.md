@@ -84,6 +84,8 @@ Aşağıda kamuda açık kaynak kodlu yazılım kullanımı konusunda destek/hiz
 
 ## Kurum
 
+- [Hazine ve Maliye Bakanlığı Bilgi Teknolojileri Genel Müdürlüğü](https://btgm.hmb.gov.tr/), [2](https://btgm.hmb.gov.tr/haberler/gelecegi-insa-ederken-acik-kaynak-kodlu-yazilimlarin-gucuyle-ilerliyoruz), [3](https://btgm.hmb.gov.tr/haberler/acik-kaynak-kodlu-yazilimlar-ile-gelistirdigimiz-kamu-filo-bilgi-sistemini-devreye-aliyoruz)
+
 ## Dernek/Platform
 
 - [Linux Kullanıcıları Derneği](https://www.lkd.org.tr/)
