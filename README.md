@@ -21,6 +21,7 @@ Söz konusu Genelge uyarınca kamu kurumları, "AKKY Geçişi Analiz ve Yol Hari
 ## Haber
 
 - [Avcılar Belediyesi Açık Kaynak Kodlu Yazılıma Geçti](https://www.techinside.com/avcilar-belediyesi-acik-kaynak-kodlu-yazilima-gecti/), [2](https://www.bthaber.com/avcilar-yazilimda-acik-kaynaga-gecti/), [3](https://www.chip.com.tr/haber/avcilar-hem-guvenlik-hem-tasarruf-saglayacak-yazilimda-acik-kaynaga-gecti_161232.html) (2024)
+- ["Kamuda Açık Kaynak Kodlu Yazılım Kullanımı" Konulu Cumhurbaşkanlığı Genelgesi Resmi Gazete’de Yayımlandı](https://www.pardus.org.tr/haberler/kamuda-acik-kaynak-kodlu-yazilim-kullanimi-konulu-cumhurbaskanligi-genelgesi-resmi-gazetede-yayimlandi/) (2023)
 - [TOBB Ev Sahipliğinde AKKY Kamu Bilgilendirme Toplantısı](https://www.dunya.com/kose-yazisi/kamuda-acik-kaynak-kodlu-yazilima-geciste-tarihi-bir-gune-daha-imza-atildi/713676), [2](https://twitter.com/ErtanBarut/status/1735592436120875045) (2023)
 - [Yerli ve Milli İşletim Sistemine Geçen İlk Belediye: Eyüpsultan Belediyesi](https://www.gzt.com/jurnalist/yerli-ve-milli-isletim-sistemine-gecen-ilk-belediye-eyupsultan-belediyesi-3431865), [2](https://t24.com.tr/haber/eyupsultan-belediyesinden-2-milyon-dolarlik-tasarruf,677546), [3](https://www.hukukihaber.net/eyupsultan-belediyesi-turkiyenin-siber-kalkani-ahtapot-icin-kollari-sivadi) (2018-2019)
 
@@ -31,9 +32,16 @@ Söz konusu Genelge uyarınca kamu kurumları, "AKKY Geçişi Analiz ve Yol Hari
 
 ## Yazılım
 
+- [Ahtapot](https://ahtapot.org.tr/) - Bütünleşik Siber Güvenlik Sistemi
+- [Engerek](https://www.pardus.org.tr/projeler/engerek/) - Kimlik Yönetim Sistemi
+- [ETAP](https://www.etap.org.tr/) - Pardus Etkileşimli Tahta Arayüzü
+- [Liderahenk](https://liderahenk.org/) - Merkezi Yönetim Sistemi
+- [Pardus](https://www.pardus.org.tr/) - TÜBİTAK ULAKBİM Tarafından Geliştirilen Debian Tabanlı GNU/Linux Dağıtımı
+
 ## Donanım
 
 ## Firma
+
 Burada kamuda açık kaynak kodlu yazılım kullanımı konusunda destek veren firmaların alfabetik bir listesini bulabilirsiniz.
 
 - [Antandros Teknoloji](https://akky.com.tr/)
