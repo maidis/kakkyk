@@ -39,10 +39,18 @@ Söz konusu Genelge uyarınca kamu kurumları, "AKKY Geçişi Analiz ve Yol Hari
 ## Yazılım
 
 - [Ahtapot](https://ahtapot.org.tr/) - Bütünleşik Siber Güvenlik Sistemi
+- [Git](https://git-scm.com/) - Yazılım Versiyon Takip Sistemi
 - [Engerek](https://www.pardus.org.tr/projeler/engerek/) - Kimlik Yönetim Sistemi
 - [ETAP](https://www.etap.org.tr/) - Pardus Etkileşimli Tahta Arayüzü
+- [Jitsi Meet](https://meet.jit.si/) - Video Konferans Sistemi
 - [Liderahenk](https://liderahenk.org/) - Merkezi Yönetim Sistemi
+- [Lime Survey](https://www.limesurvey.org/) - Anket Uygulaması
+- [Moodle](https://moodle.org/) - Uzaktan Eğitim Sistemi
+- [Nextcloud](https://nextcloud.com/) - Dosya Barındırma Sistemi
 - [Pardus](https://www.pardus.org.tr/) - TÜBİTAK ULAKBİM Tarafından Geliştirilen Debian Tabanlı GNU/Linux Dağıtımı
+- [Redmine](https://www.redmine.org/) - Proje Yönetim Sistemi
+- [Sambabox](https://sambabox.io/) - Samba4 Alt Yapılı Aktif Dizin Yönetimi
+- [Zimbra](https://www.zimbra.com/) - E-posta Sunucusu
 
 ## Donanım
 
