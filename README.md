@@ -120,6 +120,7 @@ Aşağıda kamuda açık kaynak kodlu yazılım kullanımı konusunda destek/hiz
 
 ## Örnek
 
+- [Ankara Üniversitesi Bilgi İşlem Daire Başkanlığı ](https://bid.ankara.edu.tr/2024/01/01/e-beyas-acik-kaynak-kod-donusumu/)
 - [Bilecik Şeyh Edebali Üniversitesi Bilgi İşlem Daire Başkanlığı AKKY Genelgesi Çalışması](https://wiki.bilecik.edu.tr/tr/YARDIM/akkygenelge)
 - [Diyanet Açık Kaynak](https://acikkaynak.diyanet.gov.tr/)
 - [Selçuk Üniversitesi Bilgi İşlem Daire Başkanlığı](https://www.selcuk.edu.tr/Birim/daire-baskanliklari/bilgi_islem/1951/acik-kaynak/53178)
