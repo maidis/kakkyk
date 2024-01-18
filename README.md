@@ -36,7 +36,17 @@ Söz konusu Genelge uyarınca kamu kurumları, "AKKY Geçişi Analiz ve Yol Hari
 Burada kamuda açık kaynak kodlu yazılım kullanımı konusunda destek veren firmaların alfabetik bir listesini bulabilirsiniz.
 
 - [Antandros Teknoloji](https://akky.com.tr/)
+- [Artistanbul](https://www.artistanbul.io/)
 - [BeyazNet](https://www.beyaz.net/)
+- [Özgür Yazılım A.Ş.](https://www.ozguryazilim.com.tr/)
+
+## Kurum
+
+## Dernek
+
+- [Linux Kullanıcıları Derneği](https://www.lkd.org.tr/)
+- [Özgür Yazılım Derneği](https://www.oyd.org.tr/)
+- [Özgür Yazılım Kullanıcıları Derneği](https://www.oyakder.org.tr/)
 
 ## Kişi
 
