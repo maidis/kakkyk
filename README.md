@@ -30,15 +30,20 @@ Söz konusu Genelge uyarınca kamu kurumları, AKKY Geçişi Analiz ve Yol Harit
 
 ## Yazılım
 
+- [.NET](https://learn.microsoft.com/tr-tr/dotnet/welcome) - Çok Farklı Türde Uygulama Oluşturmaya Yönelik Platformlar Arası Açık kaynak Geliştirici Platformu
 - [Ahtapot](https://ahtapot.org.tr/) - Bütünleşik Siber Güvenlik Sistemi
 - [Apache Guacamole](https://guacamole.apache.org/) - Platformlar Arası, İstemcisiz Uzak Masaüstü Ağ Geçidi
+- [Cacti](https://www.cacti.net/) - Genişletilebilir Operasyonel İzleme ve Hata Yönetimi Çatısı
 - [Coslat Hotspot](https://coslat.com/5651-hotspot-cozumleri) - Kamuya Açık Kablosuz Ağ Hizmetleri Yönetim Sistemi
 - [ClamAV](https://www.clamav.net/) - Çok Platformlu Antivirüs Yazılımı
+- [Django](https://www.djangoproject.com/) - Python ile Hazırlanmış Yüksek Seviyeli Web Çatısı
 - [Drupal](https://www.drupal.org/) - Açık Kaynak İçerik Yönetim Sistemi ve İçerik Yönetime Odaklı Altyapı Yazılımı
+- [elasticsearch](https://www.elastic.co/) - RESTful Arama ve Analiz Motoru
 - [Engerek](https://www.pardus.org.tr/projeler/engerek/) - Kimlik Yönetim Sistemi
 - [ETAP](https://www.etap.org.tr/) - Pardus Etkileşimli Tahta Arayüzü
 - [Evolution](https://wiki.gnome.org/Apps/Evolution) - Masaüstü E-posta Uygulaması
 - [Fedora](https://fedoraproject.org/) - Bir Linux Dağıtımı
+- [Flask](https://flask.palletsprojects.com/) - Python ile Yazılmış Mikro Web Çatısı
 - [Flutter](https://flutter.dev/) - Google Tarafından Oluşturulan Açık Kaynaklı UI Yazılım Geliştirme Kiti
 - [Git](https://git-scm.com/) - Yazılım Versiyon Takip Sistemi
 - [GitLab](https://about.gitlab.com/) - Kaynak Kod ve Proje Yönetim Platformu
@@ -50,21 +55,27 @@ Söz konusu Genelge uyarınca kamu kurumları, AKKY Geçişi Analiz ve Yol Harit
 - [Liman MYS](https://liman.havelsan.com.tr/) - Açık Kaynak Merkezi Yönetim Sistemi
 - [Lime Survey](https://www.limesurvey.org/) - Anket Uygulaması
 - [Moodle](https://moodle.org/) - Uzaktan Eğitim Sistemi
+- [MongoDB](https://www.mongodb.com/) - C++ ile Geliştirilmiş Açık Kaynak NoSQL Veritabanı
+- [MySQL](https://www.mysql.com/) - Çoklu İş Parçacıklı, Çok Kullanıcılı, Hızlı ve Sağlam Bir Veri Tabanı Yönetim Sistemi
 - [NoMachine](https://www.nomachine.com/) - Uzaktan Destek Yazılımı
 - [Nextcloud](https://nextcloud.com/) - Dosya Barındırma, Dosya Senkronizasyonu Sistemi
 - [osquery](https://github.com/osquery/osquery) - SQL Destekli İşletim Sistemi İzleme ve Analitik Yazılımı
 - [Pardus](https://www.pardus.org.tr/) - TÜBİTAK ULAKBİM Tarafından Geliştirilen Debian Tabanlı GNU/Linux Dağıtımı
 - [PassBox](https://passbox.io/) - İşletmeler İçin Güvenli Self Servis Şifre Sıfırlama ve OTP
+- [PHP](https://www.php.net/) - Çok Geniş Kullanımlı, Genel Amaçlı, İçerisine HTML Gömülebilen Betik ve Programlama Dili
 - [PostgreSQL](https://www.postgresql.org/) - Açık Kaynak Güçlü İlişkisel Veritabanı Yönetim Sistemi
 - [Proxmox](https://www.proxmox.com/) - Sanallaştırma Ortamı
 - [Proxmox Mail Gateway](https://www.proxmox.com/en/proxmox-mail-gateway) - E-posta Güvenlik Çözümü
+- [Redis](https://redis.io/) - Veri Yapısı Sunucusu
 - [Redmine](https://www.redmine.org/) - Proje Yönetim Sistemi
 - [Rocket.Chat](https://www.rocket.chat/) - Anlık İleti ve Video Konferans Yazılımı
 - [Rsyslog](https://www.rsyslog.com/) - Hızlı Log İşleme Sistemi
 - [Sambabox](https://sambabox.io/) - Samba4 Alt Yapılı Aktif Dizin Yönetimi
+- [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Kod Kalitesi, Güvenlik ve Statik Analiz Aracı
 - [TaliaDomain](https://taliadomain.com/) - Açık Kaynak Domain Kurulum, Yönetim ve İzleme Sistemi
 - [Ubuntu](https://ubuntu.com/) - Bir Linux Dağıtımı
 - [Wazuh](https://wazuh.com/) - Uç Noktalar ve Bulut İçin XDR ve SIEM Korumasını Birleştiren Açık Kaynak Güvenlik Platformu
+- [WordPress](https://tr.wordpress.org/) - PHP Dilinde Yazılmış Açık Kaynak İçerik Yönetim Sistemi
 - [Zabbix](https://www.zabbix.com/) - Açık Kaynak Ağ ve Uygulama İzleme Yazılımı
 - [Zimbra](https://www.zimbra.com/) - E-posta Sunucusu
 
@@ -111,5 +122,6 @@ Aşağıda kamuda açık kaynak kodlu yazılım kullanımı konusunda destek/hiz
 
 - [Bilecik Şeyh Edebali Üniversitesi Bilgi İşlem Daire Başkanlığı AKKY Genelgesi Çalışması](https://wiki.bilecik.edu.tr/tr/YARDIM/akkygenelge)
 - [Diyanet Açık Kaynak](https://acikkaynak.diyanet.gov.tr/)
+- [Selçuk Üniversitesi Bilgi İşlem Daire Başkanlığı](https://www.selcuk.edu.tr/Birim/daire-baskanliklari/bilgi_islem/1951/acik-kaynak/53178)
 - [Ziraat Katılım Bankası](https://eksisozluk111.com/entry/139301960)
 
