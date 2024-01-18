@@ -1,18 +1,10 @@
-# Kamuda Açık Kaynak Kodlu Yazılım Kullanımı
+# [Kamuda Açık Kaynak Kodlu Yazılım Kullanımı](https://cbddo.gov.tr/proje-aciklamasi/6776/kamuda-acik-kaynak-kodlu-yazilim-kullanimi)
 
 Hâlihazırda birçok kamu kurumunun bilgi teknolojisi altyapılarında kullanılan ticari lisanslı yazılımlar kurumlarımız açısından oldukça önemli bir maliyet oluşturmaktadır. Hızlanan dijital dönüşüm ile birlikte bu maliyetin önümüzdeki dönemde daha da artması beklenmektedir. Öte yandan, birçok ticari lisanslı yazılımın benzerleri açık kaynak kodlu yazılım (AKKY) olarak da geliştirilmekte ve dünyada yaygın şekilde kullanılmaktadır. AKKY kullanımı, kamunun bilgi teknolojisi harcamalarında maliyet tasarrufunun yanı sıra, yerel yazılım ekosisteminin geliştirilmesi ve siber güvenliğin güçlendirilmesi açısından da önemli bir potansiyel barındırmaktadır.
 
-Bu potansiyelden Türkiye adına mümkün olduğunca faydalanmak amacıyla, kamuda AKKY kullanımını yaygınlaştırmak üzere Cumhurbaşkanlığı Dijital Dönüşüm Ofisi Başkanlığı tarafından hazırlanan "Kamuda Açık Kaynak Kodlu Yazılım Kullanımı" konulu [2023/13 sayılı Cumhurbaşkanlığı Genelgesi](https://www.resmigazete.gov.tr/eskiler/2023/07/20230729-34.pdf), 29/07/2023 tarihli ve 32263 sayılı Resmî Gazete'de yayımlanarak yürürlüğe girmiştir.
+Bu potansiyelden Türkiye adına mümkün olduğunca faydalanmak amacıyla, kamuda AKKY kullanımını yaygınlaştırmak üzere [Cumhurbaşkanlığı Dijital Dönüşüm Ofisi Başkanlığı](https://cbddo.gov.tr) tarafından hazırlanan "Kamuda Açık Kaynak Kodlu Yazılım Kullanımı" konulu [2023/13 sayılı Cumhurbaşkanlığı Genelgesi](https://www.resmigazete.gov.tr/eskiler/2023/07/20230729-34.pdf), 29/07/2023 tarihli ve 32263 sayılı Resmî Gazete'de yayımlanarak yürürlüğe girmiştir.
 
-Söz konusu Genelge uyarınca kamu kurumları, "AKKY Geçişi Analiz ve Yol Haritası Raporu"nu [buradan](https://cbddo.gov.tr/SharedFolderServer/Projeler/File/AKKY_Gecisi_Analiz_ve_Yol_Haritasi_Raporu_Sablonu.ods) ulaşılabilen şablona uygun ve TÜBİTAK-ULAKBİM tarafından hazırlanan "[Açık Kaynak Kodlu Yazılıma Geçiş Analiz Rehberi](https://cbddo.gov.tr/SharedFolderServer/Projeler/File/Acik_Kaynak_Kodlu_Yazilima_Gecis_Rehberi.pdf)"ni dikkate alacak şekilde hazırlayacak olup Genelge’nin yayım tarihinden itibaren 9 ay içerisinde Cumhurbaşkanlığı Dijital Dönüşüm Ofisi Başkanlığına ileteceklerdir.
-
-- [2023/13 sayılı Cumhurbaşkanlığı Genelgesi](https://www.resmigazete.gov.tr/eskiler/2023/07/20230729-34.pdf)
-- [AKKY Geçişi Analiz ve Yol Haritası Raporu Şablonu](https://cbddo.gov.tr/SharedFolderServer/Projeler/File/AKKY_Gecisi_Analiz_ve_Yol_Haritasi_Raporu_Sablonu.ods)
-- [Açık Kaynak Kodlu Yazılıma Geçiş Analiz Rehberi](https://cbddo.gov.tr/SharedFolderServer/Projeler/File/Acik_Kaynak_Kodlu_Yazilima_Gecis_Rehberi.pdf)
-
-**Kaynak:**
-
-- [Türkiye Cumhuriyeti Cumhurbaşkanlığı Dijital Dönüşüm Ofisi - Kamuda Açık Kaynak Kodlu Yazılım Kullanımı](https://cbddo.gov.tr/proje-aciklamasi/6776/kamuda-acik-kaynak-kodlu-yazilim-kullanimi)
+Söz konusu Genelge uyarınca kamu kurumları, AKKY Geçişi Analiz ve Yol Haritası Raporunu, [AKKY Geçişi Analiz ve Yol Haritası Raporu Şablonuna](https://cbddo.gov.tr/SharedFolderServer/Projeler/File/AKKY_Gecisi_Analiz_ve_Yol_Haritasi_Raporu_Sablonu.ods) uygun ve TÜBİTAK-ULAKBİM tarafından hazırlanan [Açık Kaynak Kodlu Yazılıma Geçiş Analiz Rehberini](https://cbddo.gov.tr/SharedFolderServer/Projeler/File/Acik_Kaynak_Kodlu_Yazilima_Gecis_Rehberi.pdf) dikkate alacak şekilde hazırlayacak olup Genelge'nin yayım tarihinden itibaren 9 ay içerisinde Cumhurbaşkanlığı Dijital Dönüşüm Ofisi Başkanlığına ileteceklerdir.
 
 ## Blog
 
