@@ -31,17 +31,27 @@ Söz konusu Genelge uyarınca kamu kurumları, AKKY Geçişi Analiz ve Yol Harit
 ## Yazılım
 
 - [Ahtapot](https://ahtapot.org.tr/) - Bütünleşik Siber Güvenlik Sistemi
-- [Git](https://git-scm.com/) - Yazılım Versiyon Takip Sistemi
+- [Coslat Hotspot](https://coslat.com/5651-hotspot-cozumleri) - Kamuya Açık Kablosuz Ağ Hizmetleri Yönetim Sistemi
 - [Engerek](https://www.pardus.org.tr/projeler/engerek/) - Kimlik Yönetim Sistemi
 - [ETAP](https://www.etap.org.tr/) - Pardus Etkileşimli Tahta Arayüzü
-- [Jitsi Meet](https://meet.jit.si/) - Video Konferans Sistemi
+- [Fedora](https://fedoraproject.org/) - Bir Linux Dağıtımı
+- [Flutter](https://flutter.dev/) - Google Tarafından Oluşturulan Açık Kaynaklı UI Yazılım Geliştirme Kiti
+- [Git](https://git-scm.com/) - Yazılım Versiyon Takip Sistemi
+- [GitLab](https://about.gitlab.com/) - Kaynak Kod ve Proje Yönetim Platformu
+- [Grafana](https://grafana.com/) - Açık Kaynak Veri Analizi ve İzleme Yazılımı
+- [Jitsi Meet](https://meet.jit.si/) - Video Konferans ve Anlık Mesajlaşma Sistemi
 - [Liderahenk](https://liderahenk.org/) - Merkezi Yönetim Sistemi
 - [Lime Survey](https://www.limesurvey.org/) - Anket Uygulaması
 - [Moodle](https://moodle.org/) - Uzaktan Eğitim Sistemi
-- [Nextcloud](https://nextcloud.com/) - Dosya Barındırma Sistemi
+- [Nextcloud](https://nextcloud.com/) - Dosya Barındırma, Dosya Senkronizasyonu Sistemi
 - [Pardus](https://www.pardus.org.tr/) - TÜBİTAK ULAKBİM Tarafından Geliştirilen Debian Tabanlı GNU/Linux Dağıtımı
+- [PassBox](https://passbox.io/) - İşletmeler İçin Güvenli Self Servis Şifre Sıfırlama ve OTP
+- [PostgreSQL](https://www.postgresql.org/) - Açık Kaynak Güçlü İlişkisel Veritabanı Yönetim Sistemi
+- [Proxmox Mail Gateway](https://www.proxmox.com/en/proxmox-mail-gateway) - E-posta Güvenlik Çözümü
 - [Redmine](https://www.redmine.org/) - Proje Yönetim Sistemi
 - [Sambabox](https://sambabox.io/) - Samba4 Alt Yapılı Aktif Dizin Yönetimi
+- [Ubuntu](https://ubuntu.com/) - Bir Linux Dağıtımı
+- [Zabbix](https://www.zabbix.com/) - Açık Kaynak Ağ ve Uygulama İzleme Yazılımı
 - [Zimbra](https://www.zimbra.com/) - E-posta Sunucusu
 
 ## Donanım
