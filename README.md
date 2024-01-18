@@ -31,26 +31,40 @@ Söz konusu Genelge uyarınca kamu kurumları, AKKY Geçişi Analiz ve Yol Harit
 ## Yazılım
 
 - [Ahtapot](https://ahtapot.org.tr/) - Bütünleşik Siber Güvenlik Sistemi
+- [Apache Guacamole](https://guacamole.apache.org/) - Platformlar Arası, İstemcisiz Uzak Masaüstü Ağ Geçidi
 - [Coslat Hotspot](https://coslat.com/5651-hotspot-cozumleri) - Kamuya Açık Kablosuz Ağ Hizmetleri Yönetim Sistemi
+- [ClamAV](https://www.clamav.net/) - Çok Platformlu Antivirüs Yazılımı
+- [Drupal](https://www.drupal.org/) - Açık Kaynak İçerik Yönetim Sistemi ve İçerik Yönetime Odaklı Altyapı Yazılımı
 - [Engerek](https://www.pardus.org.tr/projeler/engerek/) - Kimlik Yönetim Sistemi
 - [ETAP](https://www.etap.org.tr/) - Pardus Etkileşimli Tahta Arayüzü
+- [Evolution](https://wiki.gnome.org/Apps/Evolution) - Masaüstü E-posta Uygulaması
 - [Fedora](https://fedoraproject.org/) - Bir Linux Dağıtımı
 - [Flutter](https://flutter.dev/) - Google Tarafından Oluşturulan Açık Kaynaklı UI Yazılım Geliştirme Kiti
 - [Git](https://git-scm.com/) - Yazılım Versiyon Takip Sistemi
 - [GitLab](https://about.gitlab.com/) - Kaynak Kod ve Proje Yönetim Platformu
+- [GLPI](https://glpi-project.org/) - Açık Kaynak BT Varlık Yönetim Sistemi
 - [Grafana](https://grafana.com/) - Açık Kaynak Veri Analizi ve İzleme Yazılımı
 - [Jitsi Meet](https://meet.jit.si/) - Video Konferans ve Anlık Mesajlaşma Sistemi
+- [LibreOffice](https://tr.libreoffice.org/) - The Document Foundation Tarafından Geliştirilen Açık kaynak Ofis Yazılımı Seti
 - [Liderahenk](https://liderahenk.org/) - Merkezi Yönetim Sistemi
+- [Liman MYS](https://liman.havelsan.com.tr/) - Açık Kaynak Merkezi Yönetim Sistemi
 - [Lime Survey](https://www.limesurvey.org/) - Anket Uygulaması
 - [Moodle](https://moodle.org/) - Uzaktan Eğitim Sistemi
+- [NoMachine](https://www.nomachine.com/) - Uzaktan Destek Yazılımı
 - [Nextcloud](https://nextcloud.com/) - Dosya Barındırma, Dosya Senkronizasyonu Sistemi
+- [osquery](https://github.com/osquery/osquery) - SQL Destekli İşletim Sistemi İzleme ve Analitik Yazılımı
 - [Pardus](https://www.pardus.org.tr/) - TÜBİTAK ULAKBİM Tarafından Geliştirilen Debian Tabanlı GNU/Linux Dağıtımı
 - [PassBox](https://passbox.io/) - İşletmeler İçin Güvenli Self Servis Şifre Sıfırlama ve OTP
 - [PostgreSQL](https://www.postgresql.org/) - Açık Kaynak Güçlü İlişkisel Veritabanı Yönetim Sistemi
+- [Proxmox](https://www.proxmox.com/) - Sanallaştırma Ortamı
 - [Proxmox Mail Gateway](https://www.proxmox.com/en/proxmox-mail-gateway) - E-posta Güvenlik Çözümü
 - [Redmine](https://www.redmine.org/) - Proje Yönetim Sistemi
+- [Rocket.Chat](https://www.rocket.chat/) - Anlık İleti ve Video Konferans Yazılımı
+- [Rsyslog](https://www.rsyslog.com/) - Hızlı Log İşleme Sistemi
 - [Sambabox](https://sambabox.io/) - Samba4 Alt Yapılı Aktif Dizin Yönetimi
+- [TaliaDomain](https://taliadomain.com/) - Açık Kaynak Domain Kurulum, Yönetim ve İzleme Sistemi
 - [Ubuntu](https://ubuntu.com/) - Bir Linux Dağıtımı
+- [Wazuh](https://wazuh.com/) - Uç Noktalar ve Bulut İçin XDR ve SIEM Korumasını Birleştiren Açık Kaynak Güvenlik Platformu
 - [Zabbix](https://www.zabbix.com/) - Açık Kaynak Ağ ve Uygulama İzleme Yazılımı
 - [Zimbra](https://www.zimbra.com/) - E-posta Sunucusu
 
