@@ -247,6 +247,50 @@ Aşağıda kamuda açık kaynak kodlu yazılım kullanımı konusunda destek/hiz
 
 ## İnternet Sitesi
 
+## Lisans
+
+Rehberin Temmuz 2023 tarihli 1.0 sürümünde AKKY kapsamında kabul edilebilecek lisansların listesi aşağıdaki gibidir. İlgili lisansların yayımlanan son sürümleri kullanılmalıdır.
+
+- BSD Zero Clause License
+- Academic Free License
+- GNU Affero General Public License
+- Apache License
+- Artistic License
+- BSD 2-Clause "Simplified" License
+- BSD 3-Clause Clear License
+- BSD 3-Clause "New" or "Revised" License
+- BSD 4-Clause "Original" or "Old" License
+- Boost Software License
+- Creative Commons Attribution International
+- Creative Commons Attribution Share Alike International
+- Creative Commons Zero Universal
+- CeCILL Free Software License Agreement
+- Educational Community License
+- Eclipse Public License
+- European Union Public License
+- GNU Free Documentation License
+- GNU General Public License
+- ISC License
+- GNU Lesser General Public License
+- LaTeX Project Public License
+- MIT No Attribution
+- MIT License
+- Mozilla Public License
+- Microsoft Public License
+- Microsoft Reciprocal License
+- Mulan Permissive Software License
+- University of Illinois/NCSA Open Source License
+- Open Data Commons Open Database License
+- SIL Open Font License
+- Open Software License
+- PostgreSQL License
+- The Unlicense
+- Universal Permissive License
+- Vim License
+- zlib License
+
+Lisanslarla ilgili bilgi alınabilecek çeşitli siteler şöyledir:
+
 - [Özgür Lisanslar](https://www.ozgurlisanslar.org.tr/) - Linux Kullanıcıları Derneği Tarafından Yapılan Yaygın Özgür Lisansların Türkçeleştirilmesi Çalışması
 - [Özgür yazılım lisansları - Vikipedi](https://tr.wikipedia.org/wiki/Kategori:%C3%96zg%C3%BCr_yaz%C4%B1l%C4%B1m_lisanslar%C4%B1) - Özgür Yazılım Lisansları Listesi
 - [Lisanslar - GNU Projesi](https://www.gnu.org/licenses/licenses.tr.html) - Özgür Yazılım Lisansları
