@@ -249,7 +249,7 @@ Aşağıda kamuda açık kaynak kodlu yazılım kullanımı konusunda destek/hiz
 
 ## Lisans
 
-Rehberin Temmuz 2023 tarihli 1.0 sürümünde AKKY kapsamında kabul edilebilecek lisansların listesi aşağıdaki gibidir. İlgili lisansların yayımlanan son sürümleri kullanılmalıdır.
+Rehberin Temmuz 2023 tarihli 1.0 sürümüne göre AKKY kapsamında kabul edilebilecek lisansların listesi aşağıdaki gibidir. İlgili lisansların yayımlanan son sürümleri kullanılmalıdır.
 
 - BSD Zero Clause License
 - Academic Free License
