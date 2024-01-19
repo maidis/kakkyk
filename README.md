@@ -6,6 +6,43 @@ Bu potansiyelden Türkiye adına mümkün olduğunca faydalanmak amacıyla, kamu
 
 Söz konusu Genelge uyarınca kamu kurumları, AKKY Geçişi Analiz ve Yol Haritası Raporunu, [AKKY Geçişi Analiz ve Yol Haritası Raporu Şablonuna](https://cbddo.gov.tr/SharedFolderServer/Projeler/File/AKKY_Gecisi_Analiz_ve_Yol_Haritasi_Raporu_Sablonu.ods) uygun ve TÜBİTAK-ULAKBİM tarafından hazırlanan [Açık Kaynak Kodlu Yazılıma Geçiş Analiz Rehberini](https://cbddo.gov.tr/SharedFolderServer/Projeler/File/Acik_Kaynak_Kodlu_Yazilima_Gecis_Rehberi.pdf) dikkate alacak şekilde hazırlayacak olup Genelge'nin yayım tarihinden itibaren 9 ay içerisinde Cumhurbaşkanlığı Dijital Dönüşüm Ofisi Başkanlığına ileteceklerdir.
 
+## Açık Kaynak Kodlu Yazılıma Geçiş Süreci Aşamaları
+
+![Açık Kaynak Kodlu Yazılıma Geçiş Süreçleri](./akky-gecis-surecleri.jpeg)
+
+### 1. Envanter Çalışması
+
+- Öncelikle, kurumda kullanılan ticari lisanslı yazılım envanterinin çıkarılması gerekmektedir.
+- Envanter oluşturulurken rapor şablonunda bulunan üst ve alt kategoriler dikkate alınır.
+
+### 2. Teknik Analiz
+
+AKKY'lere geçişle ilgili teknik analizler yapılarak
+
+- Avantajlar
+- Dezavantajlar
+- Varsa kısıtlar
+
+bu bölümde doldurulacaktır.
+
+### 3. Yetkinlik Analizi
+
+Kurum organizasyonunda belirlenmiş olan birimlerin bilişim sistemleri açısından eğitim seviyesi ve yetkinlikleri analiz edilerek bu bölüm doldurulacaktır.
+
+### 4. Maliyet Analizi
+
+Kurumlar tarafından envantere girilen ticari lisanslı yazılım ve muadili olan AKKY'lerin geçmiş dönem maliyetlerinden bağımsız olarak önümüzdeki 5 yıllık projeksiyonda toplam sahip olma maliyeti belirtilir.
+
+### 5. Karar
+
+Bu bölümde:
+
+- Geçiş yapılabilirlik kararı, geçiş yapılamıyorsa gerekçeleri
+- Geçiş için başlangıç tarihi, geçiş tamamlanma tarihi ve
+- Açıklamalar
+
+girilerek doküman tamamlanır.
+
 ## Blog
 
 - [Açık Kaynak Dünyasında Yok Yok](https://www.linkedin.com/pulse/a%C3%A7%C4%B1k-kaynak-d%C3%BCnyas%C4%B1nda-yok-ersen-denli/) - Ersen Denli - Bahçelievler Belediyesi
