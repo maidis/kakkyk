@@ -45,6 +45,8 @@ girilerek doküman tamamlanır.
 
 ## AKKY Geçişi Analiz ve Yol Haritası Raporu Şablonu
 
+![AKKY Geçişi Analiz ve Yol Haritası Raporu Şablonu](./AKKY_Gecisi_Analiz_ve_Yol_Haritasi_Raporu_Sablonu.png)
+
 ### Envanter Çalışması
 				
 - Yazılım Adı: Mevcutta kullanılan yazılımın (EBYS, ERP, E-Posta vb.) bilgileri belirtilir.
