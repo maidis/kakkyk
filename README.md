@@ -162,6 +162,7 @@ Aşağıda kamuda açık kaynak kodlu yazılım kullanımı konusunda destek/hiz
 - [İşletmelerde Milli ve Açık Kaynak Kodlu Bir İşletim Sistemi Uygulama Süreci: Pardus Örneği](http://acikerisim.gedik.edu.tr:8080/xmlui/bitstream/handle/11501/134/%20BRAH%20M%20SARIKAYA.pdf?sequence=1) - İbrahim SARIKAYA (2019)
 - [Ülkemizde Kamu Kuruluşlarında Kullanılan Yazılımların Yerli Yazılım İle Tek Çatı Altında Toplanması](https://www.sadab.org/FileUpload/bs701867/File/ulkemizde_kamu_kuruluslarinda_yerli_yazilim_son.pdf) - Alper AYTEKİN, Fatma TÜMİNÇİN (2018)
 - [Kamu Kurumlarında Açık Kaynak Kodlu Yazılımların Kullanımı](https://dergipark.org.tr/tr/pub/seyad/issue/53367/709521) - Mustafa Fedai ÇAVUŞ, Halenur Soysal KURT (2017)
+- [Özgür Açık Kaynak Yazılım Stratejilerinin Türkiye Bilgi Toplumu Hedefleri İçerisindeki Önemi](https://research.sabanciuniv.edu/id/eprint/30082/1/Ozgur_Acik_Kaynak_Yazilim_Stratejilerinin_Turkiye_Bilgi_Toplumu_Hedefleri_Icerisindeki_Onemi.pdf) - Naci Dai, Sait Ölmez (2016)
 - [Kamuda Açık Kaynak Kodlu Yazılım Kullanımı](http://www.bilgitoplumu.gov.tr/Documents/1/Diger/Kamuda_Acik_Kaynak_Kullanimi_Calisma_Raporu.pdf) - M. Rașit ÖZDAȘ (2012)
 
 ## Örnek
