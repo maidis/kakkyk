@@ -109,6 +109,7 @@ Aşağıda kamuda açık kaynak kodlu yazılım kullanımı konusunda destek/hiz
 
 ## Kişi
 
+- [Ali Orhun AKKİRMAN](https://www.linkedin.com/in/alorak), [2](https://github.com/aliorhun)
 - [Hüseyin GÜÇ](https://www.linkedin.com/in/huseyin-guc), [2](https://opensource.com/users/hguc)
 
 ## İnternet Sitesi
