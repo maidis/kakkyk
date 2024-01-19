@@ -43,6 +43,100 @@ Bu bölümde:
 
 girilerek doküman tamamlanır.
 
+## AKKY Geçişi Analiz ve Yol Haritası Raporu Şablonu
+
+### Envanter Çalışması
+				
+- Yazılım Adı: Mevcutta kullanılan yazılımın (EBYS, ERP, E-Posta vb.) bilgileri belirtilir.
+- Üst Kategori: Envantere alınan yazılımın dahil olduğu üst kategori belirtilir.
+- Alt Kategori: Envantere alınan yazılımın  dahil olduğu alt kategori belirtilir.
+- Lisans Adedi: Ürünün lisans tipine göre satın alınmış olan miktarı belirtilir.
+- Kullanıcı Sayısı: Son kullanıcı lisansları için, ürünün kullanıcı sayısı belirtilir.
+- Lisans Adı: Lisansın ticari adı belirtilir.
+- Lisans Son Kullanım Tarihi: Ürünün lisansına ait son kullanım tarihi belirtilir.
+
+#### Kategoriler
+
+##### Sunucu Sistemleri
+
+- İşletim Sistemleri
+- Veri Tabanı Yönetim Sistemi
+- Dizin Yönetimi ve Kullanıcı Cihaz Yönetimi Sistemleri
+- E-Posta Sistemi
+- Alan Adı Sunucu Sistemi (DNS)
+- Dinamik Makine Yapılandırma Protokolü (DHCP)
+- Ağ İlkesi Sunucusu (NPS, RADIUS)
+- Web ve Uygulama Sunucusu
+- Dosya Sunucusu
+- Video Konferans Sistemi
+- Diğer
+
+##### Sanallaştırma Ortamları
+
+- Konteyner Teknolojileri
+- Depolama Alanı Sanallaştırma
+- Ağ Sanallaştırma
+- Masaüstü Sanallaştırma ve Uygulama Sanallaştırma
+- Diğer
+
+##### Siber Güvenlik Yazılımları
+
+- Güvenlik Duvarı
+- Web Uygulama Güvenlik Duvarı (WAF)
+- Saldırı Tespit / Önleme Sistemi (IDS / IPS)
+- Güvenlik Bilgileri ve Olay Yönetimi (SIEM)
+- Ağ Erişimi Kontrol Sistemi (NAC)
+- E-Posta Güvenliği
+- Sanal Özel Ağ Sistemi (VPN)
+- Ağ ve Sunucu Sistemleri İzleme Sistemi
+- Anti-virüs
+- Güvenlik Zafiyet Yönetimi
+- Diğer
+
+##### Son Kullanıcı Uygulamaları
+
+- İşletim Sistemi
+- Kurumsal Uygulamalar
+- Ofis Uygulamaları
+- Multimedya Uygulamaları
+- Mesleki Uygulamalar
+- Web Uygulama Yazılımları
+- Diğer
+
+##### Diğer
+
+- Diğer
+
+### Teknik Analiz
+
+- Açık Kaynak Kodlu Muadili: Ticari ürünün yerine kullanılması planlanan açık kaynak kodlu yazılımın adı belirtilir.
+- Avantajlar: Açık kaynak kodlu muadil uygulamanın teknik üstünlükleri; bakım, destek, entegrasyon gibi konulardaki avantajları bu bölümde belirtilir.
+- Dezavantajlar: Açık kaynak kodlu muadil uygulamanın teknik yetersizlikleri; bakım, destek, entegrasyon gibi konulardaki dezavantajları bu bölümde belirtilir.
+- Kısıtlar: İşletim sistemi bağımlılığı, donanım bağımlılığı, uygulama bağımlılığı vb. kısıtlar bu bölümde belirtilir.
+
+### Yetkinlik Analizi
+
+Yetkinlik: Projenin yürütülmesi için ihtiyaç duyulan personelin teknik yeterlik durumu belirtilir.
+
+- Kurum Personeli Yeterli
+- Eğitim İhtiyacı Var
+- Dış Hizmet Alımı Gerekli
+- Kaynak Bulunamıyor
+
+### Maliyet Analizi
+
+- Açık Kaynak Kodlu Yazılım: Geçmiş dönem maliyetlerinden bağımsız olarak önümüzdeki 5 yıllık projeksiyonda açık kaynak kodlu yazılım kullanımının toplam sahip olma maliyeti belirtilir.
+- Ticari Lisanslı Yazılım: Geçmiş dönem maliyetlerinden bağımsız olarak önümüzdeki 5 yıllık projeksiyonda ticari lisanslı yazılım kullanımının toplam sahip olma maliyeti belirtilir.
+
+### Karar
+
+- Geçiş Yapılabilirlik: Açık kaynak kodlu yazılım kullanımı ile ilgili nihai karar belirtilir.
+- Geçiş Yapılamıyorsa Gerekçeleri: Geçiş yapılamıyorsa detaylı bir şekilde gerekçelendirilir.
+- Geçiş Başlangıç Tarihi: Geçiş için planlanan başlangıç tarihi belirtilir.
+- Geçiş Tamamlanma Tarihi: Geçiş için planlanan tamamlanma tarihi belirtilir.
+- Açıklamalar: İhtiyaç halinde ayrıntılı bilgiler bu kısma yazılır.
+
+
 ## Blog
 
 - [Açık Kaynak Dünyasında Yok Yok](https://www.linkedin.com/pulse/a%C3%A7%C4%B1k-kaynak-d%C3%BCnyas%C4%B1nda-yok-ersen-denli/) - Ersen Denli - Bahçelievler Belediyesi
