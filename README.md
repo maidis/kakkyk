@@ -151,6 +151,10 @@ Aşağıda kamuda açık kaynak kodlu yazılım kullanımı konusunda destek/hiz
 
 ## İnternet Sitesi
 
+- [Özgür Lisanslar](https://www.ozgurlisanslar.org.tr/) - Linux Kullanıcıları Derneği Tarafından Yapılan Yaygın Özgür Lisansların Türkçeleştirilmesi Çalışması
+- [Özgür yazılım lisansları - Vikipedi](https://tr.wikipedia.org/wiki/Kategori:%C3%96zg%C3%BCr_yaz%C4%B1l%C4%B1m_lisanslar%C4%B1) - Özgür Yazılım Lisansları Listesi
+- [Lisanslar - GNU Projesi](https://www.gnu.org/licenses/licenses.tr.html) - Özgür Yazılım Lisansları
+
 ## Makale
 
 - [Kamuda Açık Kaynak Kodlu Yazılım Kullanımı Genelgesi](https://www.bilecik.edu.tr/dosya/19377_5532_AKKY%20Sunum.pdf) - Bilecik Şeyh Edebali Üniversitesi Bilgi İşlem Daire Başkanlığı (2023)
