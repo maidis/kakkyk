@@ -181,7 +181,7 @@ Yetkinlik: Projenin yürütülmesi için ihtiyaç duyulan personelin teknik yete
 - [Flask](https://flask.palletsprojects.com/) - Python ile Yazılmış Mikro Web Çatısı
 - [Flutter](https://flutter.dev/) - Google Tarafından Oluşturulan Açık Kaynaklı UI Yazılım Geliştirme Kiti
 - [Forgejo](https://forgejo.org/) - Kaynak Kod ve Proje Yönetim Platformu
-- [FreeDOS](https://freedos.org) - Açık Kaynak Kodlu Disk İşletim Sistemi (MS-DOS, PC-DOS ve benzerleri ile uyumlu)
+- [FreeDOS](https://freedos.org) - Açık Kaynak Kodlu Disk İşletim Sistemi (MS-DOS, PC-DOS ve benzerleri yerine)
 - [Git](https://git-scm.com/) - Yazılım Versiyon Takip Sistemi
 - [GitLab](https://about.gitlab.com/) - Kaynak Kod ve Proje Yönetim Platformu
 - [GLPI](https://glpi-project.org/) - Açık Kaynak BT Varlık Yönetim Sistemi
@@ -194,7 +194,7 @@ Yetkinlik: Projenin yürütülmesi için ihtiyaç duyulan personelin teknik yete
 - [Matrix](https://matrix.org) - Açık Standart Federatif Anlık Mesajlaşma ve Gerçek Zamanlı Mesajlaşma Protokolü
 - [Moodle](https://moodle.org/) - Uzaktan Eğitim Sistemi
 - [MySQL](https://www.mysql.com/) - Çoklu İş Parçacıklı, Çok Kullanıcılı, Hızlı ve Sağlam Bir Veri Tabanı Yönetim Sistemi
-- [MariaDB](https://mariadb.org/) - Çoklu İş Parçacıklı, Çok Kullanıcılı, Hızlı ve Sağlam Bir Veri Tabanı Yönetim Sistemi (MySQL ile uyumlu)
+- [MariaDB](https://mariadb.org/) - Çoklu İş Parçacıklı, Çok Kullanıcılı, Hızlı ve Sağlam Bir Veri Tabanı Yönetim Sistemi (MySQL yerine)
 - [NoMachine](https://www.nomachine.com/) - Uzaktan Destek Yazılımı
 - [Nextcloud](https://nextcloud.com/) - Dosya Barındırma, Dosya Senkronizasyonu Sistemi
 - [osquery](https://github.com/osquery/osquery) - SQL Destekli İşletim Sistemi İzleme ve Analitik Yazılımı
@@ -215,7 +215,7 @@ Yetkinlik: Projenin yürütülmesi için ihtiyaç duyulan personelin teknik yete
 - [Wazuh](https://wazuh.com/) - Uç Noktalar ve Bulut İçin XDR ve SIEM Korumasını Birleştiren Açık Kaynak Güvenlik Platformu
 - [Wine](https://winehq.org) - Linux üzerinde Windows uygulamalarını çalıştırmaya yarayan bir uyumluluk aracı
 - [WordPress](https://tr.wordpress.org/) - PHP Dilinde Yazılmış Açık Kaynak İçerik Yönetim Sistemi
-- [YugabyteDB](https://www.yugabyte.com/yugabytedb/) - Dağıtık SQL Veritabanı (PostgreSQL ile uyumlu)
+- [YugabyteDB](https://www.yugabyte.com/yugabytedb/) - Dağıtık SQL Veritabanı (PostgreSQL yerine)
 - [Zabbix](https://www.zabbix.com/) - Açık Kaynak Ağ ve Uygulama İzleme Yazılımı
 - [Zimbra](https://www.zimbra.com/) - E-posta Sunucusu
 
