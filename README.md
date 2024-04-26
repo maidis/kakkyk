@@ -181,6 +181,7 @@ Yetkinlik: Projenin yürütülmesi için ihtiyaç duyulan personelin teknik yete
 - [Flask](https://flask.palletsprojects.com/) - Python ile Yazılmış Mikro Web Çatısı
 - [Flutter](https://flutter.dev/) - Google Tarafından Oluşturulan Açık Kaynaklı UI Yazılım Geliştirme Kiti
 - [Forgejo](https://forgejo.org/) - Kaynak Kod ve Proje Yönetim Platformu
+- [FreeDOS](https://freedos.org) - Açık Kaynak Kodlu Disk İşletim Sistemi (MS-DOS, PC-DOS ve benzerleri ile uyumlu)
 - [Git](https://git-scm.com/) - Yazılım Versiyon Takip Sistemi
 - [GitLab](https://about.gitlab.com/) - Kaynak Kod ve Proje Yönetim Platformu
 - [GLPI](https://glpi-project.org/) - Açık Kaynak BT Varlık Yönetim Sistemi
@@ -190,6 +191,7 @@ Yetkinlik: Projenin yürütülmesi için ihtiyaç duyulan personelin teknik yete
 - [Liderahenk](https://liderahenk.org/) - Merkezi Yönetim Sistemi
 - [Liman MYS](https://liman.havelsan.com.tr/) - Açık Kaynak Merkezi Yönetim Sistemi
 - [Lime Survey](https://www.limesurvey.org/) - Anket Uygulaması
+- [Matrix](https://matrix.org) - Açık Standart Federatif Anlık Mesajlaşma ve Gerçek Zamanlı Mesajlaşma Protokolü
 - [Moodle](https://moodle.org/) - Uzaktan Eğitim Sistemi
 - [MySQL](https://www.mysql.com/) - Çoklu İş Parçacıklı, Çok Kullanıcılı, Hızlı ve Sağlam Bir Veri Tabanı Yönetim Sistemi
 - [MariaDB](https://mariadb.org/) - Çoklu İş Parçacıklı, Çok Kullanıcılı, Hızlı ve Sağlam Bir Veri Tabanı Yönetim Sistemi (MySQL ile uyumlu)
@@ -206,13 +208,14 @@ Yetkinlik: Projenin yürütülmesi için ihtiyaç duyulan personelin teknik yete
 - [Rocket.Chat](https://www.rocket.chat/) - Anlık İleti ve Video Konferans Yazılımı
 - [Rsyslog](https://www.rsyslog.com/) - Hızlı Log İşleme Sistemi
 - [Sambabox](https://sambabox.io/) - Samba4 Alt Yapılı Aktif Dizin Yönetimi
-- [Synapse](https://element-hq.github.io/synapse/latest/) - Matrix Federatif Anlık Mesajlaşma ve Gerçek Zamanlı Mesajlaşma Protokolü için Sunucu
 - [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Kod Kalitesi, Güvenlik ve Statik Analiz Aracı
+- [Synapse](https://element-hq.github.io/synapse/latest/) - Matrix Federatif Anlık Mesajlaşma ve Gerçek Zamanlı Mesajlaşma Protokolü için Sunucu
 - [TaliaDomain](https://taliadomain.com/) - Açık Kaynak Domain Kurulum, Yönetim ve İzleme Sistemi
 - [Ubuntu](https://ubuntu.com/) - Bir Linux Dağıtımı
 - [Wazuh](https://wazuh.com/) - Uç Noktalar ve Bulut İçin XDR ve SIEM Korumasını Birleştiren Açık Kaynak Güvenlik Platformu
 - [Wine](https://winehq.org) - Linux üzerinde Windows uygulamalarını çalıştırmaya yarayan bir uyumluluk aracı
 - [WordPress](https://tr.wordpress.org/) - PHP Dilinde Yazılmış Açık Kaynak İçerik Yönetim Sistemi
+- [YugabyteDB](https://www.yugabyte.com/yugabytedb/) - Dağıtık SQL Veritabanı (PostgreSQL ile uyumlu)
 - [Zabbix](https://www.zabbix.com/) - Açık Kaynak Ağ ve Uygulama İzleme Yazılımı
 - [Zimbra](https://www.zimbra.com/) - E-posta Sunucusu
 
