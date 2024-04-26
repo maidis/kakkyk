@@ -179,8 +179,8 @@ Yetkinlik: Projenin yürütülmesi için ihtiyaç duyulan personelin teknik yete
 - [Evolution](https://wiki.gnome.org/Apps/Evolution) - Masaüstü E-posta Uygulaması
 - [Fedora](https://fedoraproject.org/) - Bir Linux Dağıtımı
 - [Flask](https://flask.palletsprojects.com/) - Python ile Yazılmış Mikro Web Çatısı
-- [Forgejo](https://forgejo.org/) - Kaynak Kod ve Proje Yönetim Platformu
 - [Flutter](https://flutter.dev/) - Google Tarafından Oluşturulan Açık Kaynaklı UI Yazılım Geliştirme Kiti
+- [Forgejo](https://forgejo.org/) - Kaynak Kod ve Proje Yönetim Platformu
 - [Git](https://git-scm.com/) - Yazılım Versiyon Takip Sistemi
 - [GitLab](https://about.gitlab.com/) - Kaynak Kod ve Proje Yönetim Platformu
 - [GLPI](https://glpi-project.org/) - Açık Kaynak BT Varlık Yönetim Sistemi
