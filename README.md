@@ -238,6 +238,7 @@ Aşağıda kamuda açık kaynak kodlu yazılım kullanımı konusunda destek/hiz
 - [Hazine ve Maliye Bakanlığı Bilgi Teknolojileri Genel Müdürlüğü](https://btgm.hmb.gov.tr/), [2](https://btgm.hmb.gov.tr/haberler/gelecegi-insa-ederken-acik-kaynak-kodlu-yazilimlarin-gucuyle-ilerliyoruz), [3](https://btgm.hmb.gov.tr/haberler/acik-kaynak-kodlu-yazilimlar-ile-gelistirdigimiz-kamu-filo-bilgi-sistemini-devreye-aliyoruz)
 - [Okullarda Milli İşletim Sistemi Pardus Yaygınlaştırılacak](https://www.meb.gov.tr/okullarda-mill-isletim-sistemi-pardus-yayginlastirilacak/haber/31964/tr)
 - [İllere Bağlı İlçelerin Deprem Tehlike Değerlerinin Açık Kaynak Kodlu CBS ile Belirlenmesi](https://webdosya.csb.gov.tr/db/cbsgunu/webmenu/webmenu15756.pdf)
+- ["Milli rehber" kamuya yazılım alanında tasarruf getirecek](https://www.aa.com.tr/tr/savunma-sanayisi/milli-rehber-kamuya-yazilim-alaninda-tasarruf-getirecek/3147194), [Liman Inventory Server](https://github.com/limanmys/inventory-server)
 
 ## Dernek/Platform
 
