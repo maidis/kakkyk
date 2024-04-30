@@ -246,6 +246,7 @@ Aşağıda kamuda açık kaynak kodlu yazılım kullanımı konusunda destek/hiz
 - [Linux Kullanıcıları Derneği](https://www.lkd.org.tr/)
 - [Özgür Yazılım Derneği](https://www.oyd.org.tr/)
 - [Özgür Yazılım Kullanıcıları Derneği](https://www.oyakder.org.tr/)
+- [Public Money, Public Code](https://publiccode.eu/tr/)
 - [TOBB Türkiye Yazılım Meclisi](https://tobbyazilim.org/)
 - [Türkiye Açık Kaynak Platformu](https://www.turkiyeacikkaynakplatformu.com/)
 
