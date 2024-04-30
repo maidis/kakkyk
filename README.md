@@ -155,7 +155,7 @@ Yetkinlik: Projenin yürütülmesi için ihtiyaç duyulan personelin teknik yete
 - [TOBB Ev Sahipliğinde AKKY Kamu Bilgilendirme Toplantısı](https://www.dunya.com/kose-yazisi/kamuda-acik-kaynak-kodlu-yazilima-geciste-tarihi-bir-gune-daha-imza-atildi/713676), [2](https://twitter.com/ErtanBarut/status/1735592436120875045) (2023)
 - [Açık Kaynak Kodlu Yazılım Seferberliği](https://www.sabah.com.tr/yazarlar/sirt/2023/08/12/acik-kaynak-kodlu-yazilim-seferberligi) (2023)
 - [Yerli ve Milli İşletim Sistemine Geçen İlk Belediye: Eyüpsultan Belediyesi](https://www.gzt.com/jurnalist/yerli-ve-milli-isletim-sistemine-gecen-ilk-belediye-eyupsultan-belediyesi-3431865), [2](https://t24.com.tr/haber/eyupsultan-belediyesinden-2-milyon-dolarlik-tasarruf,677546), [3](https://www.hukukihaber.net/eyupsultan-belediyesi-turkiyenin-siber-kalkani-ahtapot-icin-kollari-sivadi) (2018-2019)
-- [Ulusal Yapay Zeka Stratejisi adım adım hedeflerine ulaşıyor](https://www.aa.com.tr/tr/dosya-haber/ulusal-yapay-zeka-stratejisi-adim-adim-hedeflerine-ulasiyor/3197270) (2024)
+- [Ulusal Yapay Zeka Stratejisi adım adım hedeflerine ulaşıyor](https://www.aa.com.tr/tr/dosya-haber/ulusal-yapay-zeka-stratejisi-adim-adim-hedeflerine-ulasiyor/3197270), [The Digital Eye for Mammography](https://github.com/cbddobvyz/digitaleye-mammography) (2024)
 
 ## Video
 
